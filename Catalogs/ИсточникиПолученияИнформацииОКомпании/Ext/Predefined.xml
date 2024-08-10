@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.17">
+	<Item id="e9b63b4b-b2b5-49b3-b516-64ef6522023d">
+		<Name>НаружнаяРеклама</Name>
+		<Code>000000003</Code>
+		<Description>Наружная реклама</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="8fb54df7-bfd5-4ee2-8760-52fa623949ab">
+		<Name>ОтДрузей</Name>
+		<Code>000000002</Code>
+		<Description>От Друзей</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="0c0d1b07-6d03-490a-b811-61154d3b920c">
+		<Name>РекламаВТелеграмме</Name>
+		<Code>000000004</Code>
+		<Description>Реклама в телеграмме</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="0ea4a314-9199-43b9-95f5-c9fedfae28b0">
+		<Name>РекламаПоТелевизору</Name>
+		<Code>000000005</Code>
+		<Description>Реклама по телевизору</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="f987cf5d-136c-43fd-b775-fc1d788be2b2">
+		<Name>Яндекс</Name>
+		<Code>000000001</Code>
+		<Description>Яндекс</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
